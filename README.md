@@ -1,81 +1,146 @@
-🌟 C.H.A.R.V.I.S - Your Ultimate Voice-Controlled Assistant 🌟
-Welcome to the C.H.A.R.V.I.S project! This cutting-edge voice-controlled assistant is designed to simplify your digital tasks. With a range of powerful features, C.H.A.R.V.I.S is here to make your life easier. Dive in to explore its capabilities!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>C.H.A.R.V.I.S - README</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    h1, h2 {
+      color: #444;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    h2 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 10px;
+      margin-top: 40px;
+    }
+    ul, ol {
+      margin: 20px 0;
+    }
+    ul li, ol li {
+      margin-bottom: 10px;
+    }
+    pre {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      border-radius: 5px;
+      overflow-x: auto;
+    }
+    code {
+      font-family: "Courier New", Courier, monospace;
+      background-color: #eee;
+      padding: 2px 4px;
+      border-radius: 3px;
+    }
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌟 C.H.A.R.V.I.S - Your Ultimate Voice-Controlled Assistant 🌟</h1>
 
-🚀 Features
-🌐 Open Chrome Browser
+  <p>Welcome to the C.H.A.R.V.I.S project! This cutting-edge voice-controlled assistant is designed to simplify your digital tasks. With a range of powerful features, C.H.A.R.V.I.S is here to make your life easier. Dive in to explore its capabilities!</p>
 
-Open Google Chrome and navigate to any website with a simple voice command.
-💻 Open Software
+  <h2>🚀 Features</h2>
+  <ul>
+    <li><b>🌐 Open Chrome Browser</b>
+      <p>Open Google Chrome and navigate to any website with a simple voice command.</p>
+    </li>
+    <li><b>💻 Open Software</b>
+      <p>Launch any software on your system by specifying its path.</p>
+    </li>
+    <li><b>🌍 Open Websites</b>
+      <p>Open any website by just saying its name. C.H.A.R.V.I.S supports <code>.com</code> and other domain types.</p>
+    </li>
+    <li><b>🔍 Search on Chrome</b>
+      <p>Perform a Google search directly on Chrome by saying "search" followed by your query.</p>
+    </li>
+    <li><b>🎵 Play Music & Videos on YouTube</b>
+      <p>Play any song or video on YouTube with a straightforward command.</p>
+    </li>
+    <li><b>📱 Send WhatsApp Messages</b>
+      <p>Send messages, make calls, and initiate video calls on WhatsApp seamlessly.</p>
+    </li>
+    <li><b>📞 Make Phone Calls</b>
+      <p>Dial any number from your mobile with a single voice command.</p>
+    </li>
+    <li><b>📰 Get News Updates</b>
+      <p>Stay updated with the latest news.</p>
+    </li>
+    <li><b>☁️ Weather Updates</b>
+      <p>Get real-time weather information.</p>
+    </li>
+    <li><b>🤖 LLM Model Integration</b>
+      <p>Includes a language learning model for advanced interactions (work in progress).</p>
+    </li>
+    <li><b>⚡ Fast Voice Capture</b>
+      <p>Quick and accurate voice recognition.</p>
+    </li>
+    <li><b>📜 Chat History</b>
+      <p>Keep track of all your interactions.</p>
+    </li>
+    <li><b>📝 Text to Action</b>
+      <p>Convert text commands into actions seamlessly.</p>
+    </li>
+    <li><b>🎨 Dynamic UI</b>
+      <p>An engaging and user-friendly interface.</p>
+    </li>
+  </ul>
 
-Launch any software on your system by specifying its path.
-🌍 Open Websites
+  <h2>📥 How to Get Started</h2>
+  <ol>
+    <li><b>Clone the Repository</b>
+      <pre><code>git clone https://github.com/Umar-MultiverseCode/Public-CHARVIS.git</code></pre>
+    </li>
+    <li><b>Install Dependencies</b>
+      <pre><code>cd C.H.A.R.V.I.S
+pip install -r requirements.txt</code></pre>
+    </li>
+    <li><b>Run the Assistant</b>
+      <pre><code>python main.py</code></pre>
+    </li>
+  </ol>
 
-Open any website by just saying its name. C.H.A.R.V.I.S supports .com and other domain types.
-🔍 Search on Chrome
+  <h2>⚙️ Configuration</h2>
+  <p>Customize C.H.A.R.V.I.S according to your needs:</p>
+  <ul>
+    <li><b>WhatsApp Configuration:</b> Set up your WhatsApp credentials.</li>
+    <li><b>Browser Settings:</b> Specify default browser and website configurations.</li>
+  </ul>
 
-Perform a Google search directly on Chrome by saying "search" followed by your query.
-🎵 Play Music & Videos on YouTube
+  <h2>📚 Usage</h2>
+  <ul>
+    <li><b>Activate the Assistant:</b> Say "activate jarvis" to start the assistant.</li>
+    <li><b>Commands:</b> Use voice commands like "open YouTube," "search Python on Google," or "send WhatsApp message to John."</li>
+  </ul>
 
-Play any song or video on YouTube with a straightforward command.
-📱 Send WhatsApp Messages
+  <h2>🤝 Contributing</h2>
+  <p>Contributions are welcome! Feel free to fork the repository and submit your pull requests.</p>
+  <ul>
+    <li><b>Issues:</b> Report bugs or suggest features.</li>
+    <li><b>Pull Requests:</b> Implement new features or improve existing ones.</li>
+  </ul>
 
-Send messages, make calls, and initiate video calls on WhatsApp seamlessly.
-📞 Make Phone Calls
+  <h2>📧 Contact</h2>
+  <p>For support or feedback, reach out to <a href="mailto:umarmulla7700@gmail.com">Umar Mulla</a>.</p>
 
-Dial any number from your mobile with a single voice command.
-📰 Get News Updates
-
-Stay updated with the latest news.
-☁️ Weather Updates
-
-Get real-time weather information.
-🤖 LLM Model Integration
-
-Includes a language learning model for advanced interactions (work in progress).
-⚡ Fast Voice Capture
-
-Quick and accurate voice recognition.
-📜 Chat History
-
-Keep track of all your interactions.
-📝 Text to Action
-
-Convert text commands into actions seamlessly.
-🎨 Dynamic UI
-
-An engaging and user-friendly interface.
-📥 How to Get Started
-Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/yourusername/C.H.A.R.V.I.S.git
-Install Dependencies
-
-bash
-Copy code
-cd C.H.A.R.V.I.S
-pip install -r requirements.txt
-Run the Assistant
-
-bash
-Copy code
-python main.py
-⚙️ Configuration
-Customize C.H.A.R.V.I.S according to your needs:
-
-WhatsApp Configuration: Set up your WhatsApp credentials.
-Browser Settings: Specify default browser and website configurations.
-📚 Usage
-Activate the Assistant: Say "activate jarvis" to start the assistant.
-Commands: Use voice commands like "open YouTube," "search Python on Google," or "send WhatsApp message to John."
-🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit your pull requests.
-
-Issues: Report bugs or suggest features.
-Pull Requests: Implement new features or improve existing ones.
-📧 Contact
-For support or feedback, reach out to Umar Mulla.
-
-Let's make life smarter, one command at a time! 🚀
-
+  <p><b>Let's make life smarter, one command at a time!</b> 🚀</p>
+</body>
+</html>
