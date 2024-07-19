@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>C.H.A.R.V.I.S - README</title>
+  <!-- <title>C.H.A.R.V.I.S - README</title> -->
 </head>
 <body>
-  <h1>🌟 C.H.A.R.V.I.S - Your Ultimate Voice-Controlled Assistant 🌟</h1>
+  <h1>🌟 C.H.A.R.V.I.S - Comprehensive Highly Adaptive Responsive Voice Intelligent System 🌟</h1>
 
   <p>Welcome to the C.H.A.R.V.I.S project! This cutting-edge voice-controlled assistant is designed to simplify your digital tasks. With a range of powerful features, C.H.A.R.V.I.S is here to make your life easier. Dive in to explore its capabilities!</p>
 
