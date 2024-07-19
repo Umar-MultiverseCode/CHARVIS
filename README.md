@@ -4,54 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>C.H.A.R.V.I.S - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 20px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1, h2 {
-      color: #444;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    h2 {
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 10px;
-      margin-top: 40px;
-    }
-    ul, ol {
-      margin: 20px 0;
-    }
-    ul li, ol li {
-      margin-bottom: 10px;
-    }
-    pre {
-      background-color: #333;
-      color: #fff;
-      padding: 10px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    code {
-      font-family: "Courier New", Courier, monospace;
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 3px;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h1>🌟 C.H.A.R.V.I.S - Your Ultimate Voice-Controlled Assistant 🌟</h1>
