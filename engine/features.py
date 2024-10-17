@@ -89,7 +89,7 @@ def PlayYoutube(query):
     speak("Playing "+search_term+" on YouTube")
     kit.playonyt(search_term)
 
-
+// For word detection without running the program
 def hotword():
     porcupine=None
     paud=None
